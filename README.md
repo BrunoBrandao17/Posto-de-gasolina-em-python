@@ -1,4 +1,4 @@
-# ⛽ Sistema de Gestão de Abastecimento (Gas Station CLI)
+# ⛽ Sistema de Gestão de Abastecimento
 
 Este é um projeto modular desenvolvido em Python que simula o sistema interno de um posto de combustível. O sistema permite gerenciar o catálogo de produtos (combustíveis) e realizar operações de venda com cálculo automático de descontos.
 
