@@ -21,3 +21,5 @@ Este é um projeto modular desenvolvido em Python que simula o sistema interno d
 * `combustivel.py`: Responsável pelo CRUD (Create, Read, Update, Delete) dos combustíveis.
 * `pagamento.py`: Gerencia a regra de negócio de pagamentos e descontos.
 * `abastecimento.py`: Orquestra o processo de venda e o cálculo final ao consumidor.
+
+Desenvolvido por **Bruno Machado Brandão** 🚀
