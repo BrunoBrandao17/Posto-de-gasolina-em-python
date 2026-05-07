@@ -22,4 +22,9 @@ Este é um projeto modular desenvolvido em Python que simula o sistema interno d
 * `pagamento.py`: Gerencia a regra de negócio de pagamentos e descontos.
 * `abastecimento.py`: Orquestra o processo de venda e o cálculo final ao consumidor.
 
-Desenvolvido por **Bruno Machado Brandão** 🚀
+⚙️ Como Executar
+
+1. Clonar o Repositório
+2. Executar: mvn spring-boot:run
+ 
+Desenvolvido por Bruno Machado Brandão 📩Brunomachad17@gmail.com 🚀
